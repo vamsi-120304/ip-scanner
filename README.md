@@ -1,6 +1,6 @@
 # ip-scanner
 
-Add execuite permissions for the ip-scanner.sh file by using the below command
+Add execuite permissions for the ip-scanner.sh file by using the below command\n
 `chmod +x ip-scanner.sh`
 
 To Scan the hosts in the range 192.168.119.1/24: 
